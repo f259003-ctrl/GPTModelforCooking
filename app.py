@@ -14,7 +14,7 @@ st.write("Generate creative recipes using your fine-tuned GPT-2 model!")
 # ----------------------------
 # 2. Unzip and load model
 # ----------------------------
-MODEL_DIR = "gpt2-recipes"
+MODEL_DIR = "Model"
 
 if not os.path.exists(MODEL_DIR):
     zip_path = "Model.zip"
