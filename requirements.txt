@@ -1,4 +1,4 @@
-streamlit
-torch
-transformers
-gdown
+streamlit==1.37.0
+torch==2.1.0
+transformers==4.37.2
+gdown==4.7.1
